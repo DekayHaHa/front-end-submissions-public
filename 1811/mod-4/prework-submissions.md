@@ -22,9 +22,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Devin Kapla
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/DekayHaHa/api-practice)
+* [Annotated Express server file](https://github.com/DekayHaHa/trapper-keeper-api/tree/anno)
+* [Promise Practice Exercises](https://repl.it/@DekayHaHa/IndelibleGrandioseBraces)
 
 ## Elizabeth Asbell
 
